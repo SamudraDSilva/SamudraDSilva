@@ -19,7 +19,7 @@ I enjoy working on projects that combine **problem-solving**, **system design**,
 ## 🛠️ Tech Stack
 
 **Languages:**  
-- Java, Python, JavaScript, C/C++
+- Java, Python, JavaScript, C#
 
 **Web & Backend:**  
 - React.js, Node.js, Express.js, REST APIs, JWT Authentication
